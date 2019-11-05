@@ -1,0 +1,11 @@
+<configs>
+
+	<!-- 2 skillpoints per level -->
+		<set xpath="/progression/level/@skill_points_per_level">2</set>
+		
+		<append xpath="/progression/perks/perk[@name='perkAutoWeaponsComplete']/effect_group">
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="ammo762mmBulletAP"/>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="ammo762mmBulletHP"/>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1" value="1" tags="ammoBundle762mmBulletBall,ammoBundle762mmBulletHP,ammoBundle762mmBulletAP"/>
+		</append>
+</configs>
