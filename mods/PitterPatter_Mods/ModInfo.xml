@@ -2,7 +2,7 @@
 <xml>
   <ModInfo>
     <Name value="PitterPatter Server Mods for A18"/>
-    <Description value="Changes some things I'm tired of updating when a patch drops."/>
+    <Description value="Changes some things I'm tired of updating when a patch drops.  Testing git webhook."/>
     <Author value="PitterPatter"/>
     <Version value="A18 1.6"/>
   </ModInfo>

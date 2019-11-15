@@ -1,0 +1,37 @@
+<!-- turned electricwirerelay into wireless junction box -->
+<configs>
+	<append xpath="/blocks/block[@name='electricwirerelay']">
+			<property name="Class" value="ElectricWire"/>
+			<property name="Material" value="Mmetal"/>
+			<property name="MaxDamage" value="1000"/>
+			<property name="StabilitySupport" value="true"/>
+			<property name="CustomIcon" value="fusebox"/>
+			<property name="ImposterDontBlock" value="true"/>
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket"/>
+			<property name="IsTerrainDecoration" value="true"/>
+			<property name="ModelOffset" value="0,-0.2,0"/>
+			<property name="Stacknumber" value="10"/>
+			
+			<property name="Shape" value="Ext3dModel"/>
+			<property name="Texture" value="293"/>
+			<property name="Model" value="Industrial/fusebox" param1="main_mesh"/> 
+			<property name="HandleFace" value="South"/>
+			<property name="Mesh" value="models"/>
+			<property name="RequiredPower" value="0"/>
+			<property name="Group" value="Building"/>
+			<property name="OnlySimpleRotations" value="false"/>
+			<property name="DamageReceived" value="0.5"/>
+			<property name="FilterTags" value="fdecor,fother,felectrical"/>
+			<property name="SortOrder1" value="70e0"/>
+
+			<property class="RepairItems">
+				<property name="resourceScrapIron" value="8"/>
+			</property>
+			
+			<drop event="Harvest" name="terrStone" count="0" tool_category="Disassemble"/>
+			<drop event="Harvest" name="resourceMechanicalParts" count="1,3" tag="salvageHarvest"/>
+			<drop event="Harvest" name="resourceScrapIron" count="4,8" tag="salvageHarvest"/>
+			<drop event="Destroy" name="resourceScrapIron" count="4,8" prob="1"/>
+			<drop event="Fall" name="scrapMetalPile" count="1" prob="0.75" stick_chance="1"/>
+	</append>
+</configs>
