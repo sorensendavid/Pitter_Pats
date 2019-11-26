@@ -1,0 +1,13 @@
+<configs>
+
+	<append xpath="/recipes">
+		<!-- Wireless Helper recipe -->
+		<recipe name="WirelessElectricalVariantHelper" count="5" craft_area="workbench">
+		  <ingredient name="resourceElectricParts" count="2"/>
+		  <ingredient name="resourceForgedIron" count="1"/>
+		</recipe>
+
+
+	</append>
+	
+</configs>

@@ -1,0 +1,1211 @@
+<configs>
+
+	<append xpath="/recipes">
+		<!-- Lockpick Bundle -->
+		<recipe name="resourceLockPickBundle" count="1" craft_time = "1" >
+			<ingredient name="resourceLockPick" count="100"/>
+		</recipe>
+
+		<!-- Vanilla Ammo -->
+		<recipe name="Disassemble 9mm Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletBall" count="10"/>
+		</recipe>
+		<recipe name="Disassemble 9mm Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletBall" count="50"/>
+		</recipe>
+		<recipe name="Disassemble 9mm Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletBall" count="250"/>
+		</recipe>
+		<recipe name="Disassemble 9mm Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletBall" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble 9mm Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle9mmBulletBall" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle9mmBulletBall" count="1">
+			<ingredient name="ammo9mmBulletBall" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble HP 9mm Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletHP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble HP 9mm Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletHP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble HP 9mm Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletHP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble HP 9mm Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletHP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble HP 9mm Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle9mmBulletHP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle9mmBulletHP" count="1" craft_time = "1">
+			<ingredient name="ammo9mmBulletHP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble AP 9mm Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletAP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble AP 9mm Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletAP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble AP 9mm Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletAP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble AP 9mm Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletAP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble AP 9mm Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle9mmBulletAP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle9mmBulletAP" count="1" craft_time = "1" >
+			<ingredient name="ammo9mmBulletAP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble 44 Magnum Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletBall" count="10"/>
+		</recipe>
+		<recipe name="Disassemble 44 Magnum Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletBall" count="50"/>
+		</recipe>
+		<recipe name="Disassemble 44 Magnum Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletBall" count="250"/>
+		</recipe>
+		<recipe name="Disassemble 44 Magnum Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletBall" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble 44 Magnum Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle44MagnumBulletBall" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle44MagnumBulletBall" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletBall" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble HP 44 Magnum Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletHP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble HP 44 Magnum Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletHP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble HP 44 Magnum Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletHP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble HP 44 Magnum Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletHP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble HP 44 Magnum Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle44MagnumBulletHP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle44MagnumBulletHP" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletHP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble AP 44 Magnum Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletAP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble AP 44 Magnum Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletAP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble AP 44 Magnum Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletAP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble AP 44 Magnum Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletAP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble AP 44 Magnum Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle44MagnumBulletAP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle44MagnumBulletAP" count="1" craft_time = "1" >
+			<ingredient name="ammo44MagnumBulletAP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble 7.62mm Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletBall" count="10"/>
+		</recipe>
+		<recipe name="Disassemble 7.62mm Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletBall" count="50"/>
+		</recipe>
+		<recipe name="Disassemble 7.62mm Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletBall" count="250"/>
+		</recipe>
+		<recipe name="Disassemble 7.62mm Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletBall" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble 7.62mm Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle762mmBulletBall" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle762mmBulletBall" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletBall" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble HP 7.62mm Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletHP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble HP 7.62mm Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletHP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble HP 7.62mm Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletHP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble HP 7.62mm Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletHP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble HP 7.62mm Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle762mmBulletHP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle762mmBulletHP" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletHP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble AP 7.62mm Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletAP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble AP 7.62mm Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletAP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble AP 7.62mm Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletAP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble AP 7.62mm Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletAP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble AP 7.62mm Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundle762mmBulletAP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundle762mmBulletAP" count="1" craft_time = "1" >
+			<ingredient name="ammo762mmBulletAP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Blunderbuss Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoBlunderbuss" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Blunderbuss Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoBlunderbuss" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Blunderbuss Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoBlunderbuss" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Blunderbuss Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoBlunderbuss" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Blunderbuss Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleBlunderbuss" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleBlunderbuss" count="1" craft_time = "1" >
+			<ingredient name="ammoBlunderbuss" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Shotgun Shell Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunShell" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Shell Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunShell" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Shell Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunShell" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Shell Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunShell" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Shotgun Shell Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleShotgunShell" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleShotgunShell" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunShell" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Shotgun Slug Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunSlug" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Slug Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunSlug" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Slug Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunSlug" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Slug Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunSlug" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Shotgun Slug Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleShotgunSlug" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleShotgunSlug" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunSlug" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Shotgun Breaching Slug Ammo (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunBreachingSlug" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Breaching Slug Ammo (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunBreachingSlug" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Breaching Slug Ammo (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunBreachingSlug" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Shotgun Breaching Slug Ammo (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunBreachingSlug" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Shotgun Breaching Slug Ammo Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleShotgunBreachingSlug" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleShotgunBreachingSlug" count="1" craft_time = "1" >
+			<ingredient name="ammoShotgunBreachingSlug" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Flaming Arrows (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowFlaming" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Flaming Arrows (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowFlaming" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Flaming Arrows (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowFlaming" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Flaming Arrows (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowFlaming" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Flaming Arrows Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleArrowFlaming" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleArrowFlaming" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowFlaming" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Exploding Arrows (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowExploding" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Exploding Arrows (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowExploding" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Exploding Arrows (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowExploding" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Exploding Arrows (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowExploding" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Exploding Arrows Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleArrowExploding" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleArrowExploding" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowExploding" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Arrows (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowIron" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Iron Arrows (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowIron" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Iron Arrows (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowIron" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Iron Arrows (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowIron" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Iron Arrows Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleArrowIron" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleArrowIron" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowIron" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Arrows (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowSteelAP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Steel Arrows (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowSteelAP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Steel Arrows (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowSteelAP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Steel Arrows (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowSteelAP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Steel Arrows Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleArrowSteelAP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleArrowSteelAP" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowSteelAP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Stone Arrows (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowStone" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Stone Arrows (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowStone" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Stone Arrows (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowStone" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Stone Arrows (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowStone" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Stone Arrows Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleArrowStone" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleArrowStone" count="1" craft_time = "1" >
+			<ingredient name="ammoArrowStone" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Flaming Crossbow Bolts (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltFlaming" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Flaming Crossbow Bolts (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltFlaming" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Flaming Crossbow Bolts (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltFlaming" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Flaming Crossbow Bolts (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltFlaming" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Flaming Crossbow Bolts Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleCrossbowBoltFlaming" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleCrossbowBoltFlaming" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltFlaming" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Exploding Crossbow Bolts (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltExploding" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Exploding Crossbow Bolts (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltExploding" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Exploding Crossbow Bolts (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltExploding" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Exploding Crossbow Bolts (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltExploding" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Exploding Crossbow Bolts Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleCrossbowBoltExploding" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleCrossbowBoltExploding" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltExploding" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Crossbow Bolts (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltIron" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Iron Crossbow Bolts (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltIron" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Iron Crossbow Bolts (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltIron" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Iron Crossbow Bolts (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltIron" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Iron Crossbow Bolts Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleCrossbowBoltIron" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleCrossbowBoltIron" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltIron" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Crossbow Bolts (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltSteelAP" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Steel Crossbow Bolts (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltSteelAP" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Steel Crossbow Bolts (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltSteelAP" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Steel Crossbow Bolts (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltSteelAP" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Steel Crossbow Bolts Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleCrossbowBoltSteelAP" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleCrossbowBoltSteelAP" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltSteelAP" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Stone Crossbow Bolts (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltStone" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Stone Crossbow Bolts (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltStone" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Stone Crossbow Bolts (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltStone" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Stone Crossbow Bolts (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltStone" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Stone Crossbow Bolts Bundle" count="1" craft_time = "1" >
+			<ingredient name="ammoBundleCrossbowBoltStone" count="1"/>
+		</recipe>
+		
+		<recipe name="ammoBundleCrossbowBoltStone" count="1" craft_time = "1" >
+			<ingredient name="ammoCrossbowBoltStone" count="100"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Darts (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoDartIron" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Iron Darts (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoDartIron" count="50"/>
+		</recipe>
+		<recipe name="Disassemble Iron Darts (250)" count="1" craft_time = "1" >
+			<ingredient name="ammoDartIron" count="250"/>
+		</recipe>
+		<recipe name="Disassemble Iron Darts (1000)" count="1" craft_time = "1" >
+			<ingredient name="ammoDartIron" count="1000"/>
+		</recipe>
+		
+		<recipe name="Disassemble Rocket Frags (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoRocketFrag" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Rocket Frags (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoRocketFrag" count="50"/>
+		</recipe>
+
+		<recipe name="Disassemble Rocket HEs (10)" count="1" craft_time = "1" >
+			<ingredient name="ammoRocketHE" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Rocket HEs (50)" count="1" craft_time = "1" >
+			<ingredient name="ammoRocketHE" count="50"/>
+		</recipe>
+
+		<!-- Thrown weapons -->
+		<recipe name="Disassemble Molotov Cocktail (10)" count="1" craft_time = "1" >
+			<ingredient name="thrownAmmoMolotovCocktail" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Molotov Cocktail (50)" count="1" craft_time = "1" >
+			<ingredient name="thrownAmmoMolotovCocktail" count="50"/>
+		</recipe>
+
+		<recipe name="Disassemble Pipe Bomb (10)" count="1" craft_time = "1" >
+			<ingredient name="thrownAmmoPipeBomb" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Pipe Bomb (50)" count="1" craft_time = "1" >
+			<ingredient name="thrownAmmoPipeBomb" count="50"/>
+		</recipe>
+
+		<recipe name="Disassemble Grenade (10)" count="1" craft_time = "1" >
+			<ingredient name="thrownGrenade" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Grenade (50)" count="1" craft_time = "1" >
+			<ingredient name="thrownGrenade" count="50"/>
+		</recipe>
+
+		<recipe name="Disassemble Contact Grenade (10)" count="1" craft_time = "1" >
+			<ingredient name="thrownGrenadeContact" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Contact Grenade (50)" count="1" craft_time = "1" >
+			<ingredient name="thrownGrenadeContact" count="50"/>
+		</recipe>
+
+		<recipe name="Disassemble Timed Charge (10)" count="1" craft_time = "1" >
+			<ingredient name="thrownTimedCharge" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Timed Charge (50)" count="1" craft_time = "1" >
+			<ingredient name="thrownTimedCharge" count="50"/>
+		</recipe>
+
+		<recipe name="Disassemble Dynamite (10)" count="1" craft_time = "1" >
+			<ingredient name="thrownDynamite" count="10"/>
+		</recipe>
+		<recipe name="Disassemble Dynamite (50)" count="1" craft_time = "1" >
+			<ingredient name="thrownDynamite" count="50"/>
+		</recipe>
+
+		<!-- Vanilla Armor -->
+		<recipe name="Disassemble Padded Boots" count="1" craft_time = "1" >
+			<ingredient name="armorClothBoots" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Padded Gloves" count="1" craft_time = "1" >
+			<ingredient name="armorClothGloves" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Padded Hood" count="1" craft_time = "1" >
+			<ingredient name="armorClothHat" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Padded Chest Armor" count="1" craft_time = "1" >
+			<ingredient name="armorClothJacket" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Padded Leg Armor" count="1" craft_time = "1" >
+			<ingredient name="armorClothPants" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Boots" count="1" craft_time = "1" >
+			<ingredient name="armorIronBoots" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Chest Armor" count="1" craft_time = "1" >
+			<ingredient name="armorIronChest" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Gloves" count="1" craft_time = "1" >
+			<ingredient name="armorIronGloves" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Helmet" count="1" craft_time = "1" >
+			<ingredient name="armorIronHelmet" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Leg Armor" count="1" craft_time = "1" >
+			<ingredient name="armorIronLegs" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Leather Boots" count="1" craft_time = "1" >
+			<ingredient name="armorLeatherBoots" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Leather Chest Armor" count="1" craft_time = "1" >
+			<ingredient name="armorLeatherChest" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Leather Gloves" count="1" craft_time = "1" >
+			<ingredient name="armorLeatherGloves" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Leather Hood" count="1" craft_time = "1" >
+			<ingredient name="armorLeatherHood" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Leather Leg Armor" count="1" craft_time = "1" >
+			<ingredient name="armorLeatherPants" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Military Boots" count="1" craft_time = "1" >
+			<ingredient name="armorMilitaryBoots" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Military Stealth Boots" count="1" craft_time = "1" >
+			<ingredient name="armorMilitaryStealthBoots" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Military Gloves" count="1" craft_time = "1" >
+			<ingredient name="armorMilitaryGloves" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Military Helmet" count="1" craft_time = "1" >
+			<ingredient name="armorMilitaryHelmet" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Military Leg Armor" count="1" craft_time = "1" >
+			<ingredient name="armorMilitaryLegs" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Military Vest" count="1" craft_time = "1" >
+			<ingredient name="armorMilitaryVest" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Firefighter's Helmet" count="1" craft_time = "1" >
+			<ingredient name="armorFirefightersHelmet" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Mining Helmet" count="1" craft_time = "1" >
+			<ingredient name="armorMiningHelmet" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scrap Boots" count="1" craft_time = "1" >
+			<ingredient name="armorScrapBoots" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scrap Chest Armor" count="1" craft_time = "1" >
+			<ingredient name="armorScrapChest" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scrap Gloves" count="1" craft_time = "1" >
+			<ingredient name="armorScrapGloves" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scrap Helmet" count="1" craft_time = "1" >
+			<ingredient name="armorScrapHelmet" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scrap Leg Armor" count="1" craft_time = "1" >
+			<ingredient name="armorScrapLegs" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Boots" count="1" craft_time = "1" >
+			<ingredient name="armorSteelBoots" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Chest Armor" count="1" craft_time = "1" >
+			<ingredient name="armorSteelChest" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Gloves" count="1" craft_time = "1" >
+			<ingredient name="armorSteelGloves" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Helmet" count="1" craft_time = "1" >
+			<ingredient name="armorSteelHelmet" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Leg Armor" count="1" craft_time = "1" >
+			<ingredient name="armorSteelLegs" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Swat Helmet" count="1" craft_time = "1" >
+			<ingredient name="armorSwatHelmet" count="1"/>
+		</recipe>
+
+		<!-- Vanilla Traps -->
+		<recipe name="Disassemble SMG Auto Turret" count="1" craft_time = "1" >
+			<ingredient name="autoTurret" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Blade Trap" count="1" craft_time = "1" >
+			<ingredient name="bladeTrap" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Dart Trap" count="1" craft_time = "1" >
+			<ingredient name="dartTrap" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Shotgun Auto Turret" count="1" craft_time = "1" >
+			<ingredient name="shotgunTurret" count="1"/>
+		</recipe>
+
+		<!-- workbenches -->
+		<recipe name="Disassemble Cement Mixer" count="1" craft_time = "1" >
+			<ingredient name="cementMixer" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Chemistry Station" count="1" craft_time = "1" >
+			<ingredient name="chemistryStation" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Electric Fence Post" count="1" craft_time = "1" >
+			<ingredient name="electricfencepost" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Electric Timer Relay" count="1" craft_time = "1" >
+			<ingredient name="electrictimerrelay" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Electric Wire Relay" count="1" craft_time = "1" >
+			<ingredient name="electricwirerelay" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Generator Bank" count="1" craft_time = "1" >
+			<ingredient name="generatorbank" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Table Saw" count="1" craft_time = "1" >
+			<ingredient name="tableSaw" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Workbench" count="1" craft_time = "1" >
+			<ingredient name="workbench" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Lead Car Battery" count="1" craft_time = "1" >
+			<ingredient name="carBattery" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Engine" count="1" craft_time = "1" >
+			<ingredient name="smallEngine" count="1"/>
+		</recipe>
+
+		<!-- Firearms -->
+		<recipe name="Disassemble .44 Magnum" count="1" craft_time = "1" >
+			<ingredient name="gun44Magnum" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble AK-47 Machine Gun" count="1" craft_time = "1" >
+			<ingredient name="gunAK47" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble M60 Machine Gun" count="1" craft_time = "1" >
+			<ingredient name="gunM60" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Junk Turret" count="1" craft_time = "1" >
+			<ingredient name="gunJunkTurret" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Blunderbuss" count="1" craft_time = "1" >
+			<ingredient name="gunBlunderbuss" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Primitive Bow" count="1" craft_time = "1" >
+			<ingredient name="gunBowPrimitive" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Wooden Bow" count="1" craft_time = "1" >
+			<ingredient name="gunBowWooden" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Compound Bow" count="1" craft_time = "1" >
+			<ingredient name="gunBowCompound" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Crossbow" count="1" craft_time = "1" >
+			<ingredient name="gunCrossbowIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Compound Crossbow" count="1" craft_time = "1" >
+			<ingredient name="gunCrossbowCompound" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Hunting Rifle" count="1" craft_time = "1" >
+			<ingredient name="gunHuntingRifle" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Marksman Rifle" count="1" craft_time = "1" >
+			<ingredient name="gunMR10" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Pistol" count="1" craft_time = "1" >
+			<ingredient name="gunPistol" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Double Barrel Shotgun" count="1" craft_time = "1" >
+			<ingredient name="gunDoubleBarrelShotgun" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Pump Shotgun" count="1" craft_time = "1" >
+			<ingredient name="gunPumpShotgun" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Rocket Launcher" count="1" craft_time = "1" >
+			<ingredient name="gunRocketLauncher" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble SMG-5" count="1" craft_time = "1" >
+			<ingredient name="gunSMG5" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Nailgun" count="1" craft_time = "1" >
+			<ingredient name="gunToolNailgun" count="1"/>
+		</recipe>
+
+		<!-- Mêlée weapons -->
+		<recipe name="Disassemble Iron Reinforced Club" count="1" craft_time = "1" >
+			<ingredient name="meleeClubIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Wooden Club" count="1" craft_time = "1" >
+			<ingredient name="meleeClubWood" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Baseball Bat" count="1" craft_time = "1" >
+			<ingredient name="meleeClubBaseballBat" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Auger" count="1" craft_time = "1" >
+			<ingredient name="meleeToolAuger" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Chainsaw" count="1" craft_time = "1" >
+			<ingredient name="meleeToolChainsaw" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Claw Hammer" count="1" craft_time = "1" >
+			<ingredient name="meleeToolClawHammer" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Fireaxe" count="1" craft_time = "1" >
+			<ingredient name="meleeToolFireaxeIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Fireaxe" count="1" craft_time = "1" >
+			<ingredient name="meleeToolFireaxeSteel" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Stone Spear" count="1" craft_time = "1" >
+			<ingredient name="meleeThrownSpearStone" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Spear" count="1" craft_time = "1" >
+			<ingredient name="meleeThrownSpearIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Spear" count="1" craft_time = "1" >
+			<ingredient name="meleeThrownSpearSteel" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Flashlight" count="1" craft_time = "1" >
+			<ingredient name="meleeToolFlashlight02" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Hunting Knife" count="1" craft_time = "1" >
+			<ingredient name="meleeToolKnifeIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Machete" count="1" craft_time = "1" >
+			<ingredient name="meleeToolKnifeMachete" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Paint Brush" count="1" craft_time = "1" >
+			<ingredient name="meleeToolPaintTool" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Pickaxe" count="1" craft_time = "1" >
+			<ingredient name="meleeToolPickaxeIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Pickaxe" count="1" craft_time = "1" >
+			<ingredient name="meleeToolPickaxeSteel" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Shovel" count="1" craft_time = "1" >
+			<ingredient name="meleeToolShovelIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Shovel" count="1" craft_time = "1" >
+			<ingredient name="meleeToolShovelSteel" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Stone Shovel" count="1" craft_time = "1" >
+			<ingredient name="meleeToolShovelStone" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Stone Sledgehammer" count="1" craft_time = "1" >
+			<ingredient name="meleeToolSledgehammerStone" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Sledgehammer" count="1" craft_time = "1" >
+			<ingredient name="meleeToolSledgehammerIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Sledgehammer" count="1" craft_time = "1" >
+			<ingredient name="meleeToolSledgehammerSteel" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Stone Axe" count="1" craft_time = "1" >
+			<ingredient name="meleeToolStoneAxe" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Stun Baton" count="1" craft_time = "1" >
+			<ingredient name="meleeStunBaton" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Wire Tool" count="1" craft_time = "1" >
+			<ingredient name="meleeToolWireTool" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Wrench" count="1" craft_time = "1" >
+			<ingredient name="meleeToolWrench" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Knuckle Wraps" count="1" craft_time = "1" >
+			<ingredient name="meleeKnucklesLeather" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Knuckles" count="1" craft_time = "1" >
+			<ingredient name="meleeKnucklesIron" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Steel Knuckles" count="1" craft_time = "1" >
+			<ingredient name="meleeKnucklesSteel" count="1"/>
+		</recipe>
+
+		<!-- Mods -->
+		<recipe name="Disassemble Advanced Muffled Connectors Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorAdvancedMuffledConnectors" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Bandolier Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorBandolier" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Cooling Mesh Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorCoolingMesh" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Customized Fittings Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorCustomizedFittings" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Double Storage Pocket Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorDoubleStoragePocket" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Helmet Light Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorHelmetLight" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Power Tool Small Tank Mod" count="1" craft_time = "1" >
+			<ingredient name="modFuelTankSmall" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Power Tool Large Tank Mod" count="1" craft_time = "1" >
+			<ingredient name="modFuelTankLarge" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Impact Bracing Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorImpactBracing" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Improved Fittings Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorImprovedFittings" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Insulated Liner Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorInsulatedLiner" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Muffled Connectors Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorMuffledConnectors" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Armor Plating Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorPlatingBasic" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Banded Armor Plating Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorPlatingReinforced" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Storage Pocket Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorStoragePocket" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Triple Storage Pocket Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorTripleStoragePocket" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Water Purifier Mod" count="1" craft_time = "1" >
+			<ingredient name="modArmorWaterPurifier" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Barrel Extender Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunBarrelExtender" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Drum Magazine Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunDrumMagazineExtender" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Bipod Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunBipod" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Arrow Rest Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunBowArrowRest" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Polymer String Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunBowPolymerString" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Shotgun Choke Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunChoke" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Cripple 'Em Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunCrippleEm" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Shotgun Duckbill Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunDuckbill" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Weapon Flashlight Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunFlashlight" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Fore Grip Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunForegrip" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Laser Sight Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunLaserSight" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Magazine Extender Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunMagazineExtender" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Shotgun Tube Extender Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunShotgunTubeExtenderMagazine" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Rad Remover Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunMeleeRadRemover" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble The Hunter Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunMeleeTheHunter" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Muzzle Brake Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunMuzzleBrake" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Reflex Sight Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunReflexSight" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Retracting Stock Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunRetractingStock" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Rod and Spring Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunRodAndSpring" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scope 8x Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunScopeLarge" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scope 4x Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunScopeMedium" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Scope 2x Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunScopeSmall" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Silencer Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunSoundSuppressorSilencer" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Trigger Group: Full Auto Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunTriggerGroupAutomatic" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Trigger Group: Burst Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunTriggerGroupBurst3" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Trigger Group: Semi Mod" count="1" craft_time = "1" >
+			<ingredient name="modGunTriggerGroupSemi" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Diamond Blade Tip Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeDiamondTip" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Bunker Buster Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeBunkerBuster" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Barbed Wire Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeClubBarbedWire" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Burning Shaft Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeClubBurningShaft" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Metal Spikes Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeClubMetalSpikes" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Metal Chain Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeClubMetalChain" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Ergonomic Grip Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeErgonomicGrip" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Fortifying Grip Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeFortifyingGrip" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Fireman's Axe Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeFiremansAxeMod" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Grave Digger Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeGraveDigger" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Iron Breaker Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeIronBreaker" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Serrated Blade Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeSerratedBlade" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Structural Brace Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeStructuralBrace" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Tempered Blade Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeTemperedBlade" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Weighted Head Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeWeightedHead" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Wood Splitter Mod" count="1" craft_time = "1" >
+			<ingredient name="modMeleeWoodSplitter" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Sawed-Off Shotgun Mod" count="1" craft_time = "1" >
+			<ingredient name="modShotgunSawedOffBarrel" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Motion Sensor" count="1" craft_time = "1" >
+			<ingredient name="motionsensor" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Office Chair" count="1" craft_time = "1" >
+			<ingredient name="officeChair01" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Storage Pocket Mod" count="1" craft_time = "1" >
+			<ingredient name="modClothingStoragePocket" count="1"/>
+		</recipe>
+
+		<recipe name="Disassemble Cargo Storage Pocket Mod" count="1" craft_time = "1" >
+			<ingredient name="modClothingCargoStoragePocket" count="1"/>
+		</recipe>
+
+	</append>
+	
+</configs>

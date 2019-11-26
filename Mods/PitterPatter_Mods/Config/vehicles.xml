@@ -1,10 +1,10 @@
 <configs>
-	<set xpath="vehicles/vehicle[@name='vehicleBicycle']/property[@name='velocityMax']/@value">10,20</set>
+	<set xpath="vehicles/vehicle[@name='vehicleBicycle']/property[@name='velocityMax']/@value">20,30</set>
 		<set xpath="vehicles/vehicle[@name='vehicleBicycle']/property[@name='motorTorqueMinQ']/@value">1000</set>
 		<set xpath="vehicles/vehicle[@name='vehicleBicycle']/property[@name='motorTorqueMaxQ']/@value">2000</set>
 		<set xpath="vehicles/vehicle[@name='vehicleBicycle']/property[@name='hopForce']/@value">6</set>
 		
-	<set xpath="vehicles/vehicle[@name='vehicleMinibike']/property[@name='velocityMax']/@value">28,44</set>
+	<set xpath="vehicles/vehicle[@name='vehicleMinibike']/property[@name='velocityMax']/@value">27,52</set>
 	
 	<set xpath="vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='velocityMax']/@value">36,56</set>
 		<set xpath="vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='motorTorqueMinQ']/@value">4000</set>

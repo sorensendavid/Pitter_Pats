@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Shino`s wireless fuseboxes" />
+		<Description value="Adds a block helper to help hide those ugly wires" />
+		<Author value="Shino" />
+		<Version value="1.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>
